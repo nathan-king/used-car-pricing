@@ -17,7 +17,7 @@ GET http://localhost:3000/auth?email=hello@canada.com
 DELETE http://localhost:3000/auth/0
 
 ###Update a user
-PATCH http://localhost:3000/auth/1000
+PATCH http://localhost:3000/auth/2
 content-type: application/json
 
 {
