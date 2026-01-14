@@ -14,7 +14,7 @@ GET http://localhost:3000/auth/2
 GET http://localhost:3000/auth?email=hello@canada.com
 
 ### Delete user by id
-DELETE http://localhost:3000/auth/1000
+DELETE http://localhost:3000/auth/0
 
 ###Update a user
 PATCH http://localhost:3000/auth/1000
